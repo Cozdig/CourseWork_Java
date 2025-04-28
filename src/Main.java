@@ -61,7 +61,7 @@ public class Main {
     public static void main(String[] args) {
         employees[0] = new Employee("Петров Петр Олегович", "1", 120000);
         employees[1] = new Employee("Лобанов Олег Иванович", "2", 160000);
-        employees[2] = new Employee("Черноус Елисей Александрович", "4", 100000);
+        employees[2] = new Employee("Черноус Елисей Александрович", "4", 110000);
         employees[3] = new Employee("Романенко Роман Олегович", "5", 40000);
         employees[4] = new Employee("Быков Георгий Григорьевич", "1", 50000);
         employees[5] = new Employee("Коровин Иван Олегович", "3", 155000);
